@@ -1,31 +1,17 @@
 # Startup Connect
 
-Startup Connect is a platform that connects entrepreneurs with investors and resources. The goal is to streamline the process of finding funding and support for startups. 
+起業家と、企業・投資家・支援リソースをつなぐマッチングアプリの構想です。スタートアップが資金や支援先を探す手間を減らすことを目指しています。
 
-## Setup Instructions
+## 状態
 
-1. **Clone the repository**:
-   
-   ```bash
-   git clone https://github.com/ykxlly/startup-connect.git
-   cd startup-connect
-   ```
-   
-2. **Install dependencies**:
-   
-   Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
-   
-   ```bash
-   npm install
-   ```
-   
-3. **Start the application**:
-   
-   ```bash
-   npm start
-   ```
-   
-4. **Open your browser** and visit `http://localhost:3000` to view the application.
-   
-## Contributing
-Feel free to submit pull requests and issues. Contributions are welcome!
+現在はアイデア段階で、このリポジトリにはまだアプリのコードがありません（READMEのみ）。
+以前のREADMEにあった `npm install` / `npm start` の手順は、`package.json` がまだ無いため実行できません。コードを追加したら、セットアップ手順をここに書きます。
+
+## やりたいこと（構想）
+
+- 起業家と企業・投資家のマッチング
+- 資金調達や支援情報を探しやすくする
+
+## コントリビュート
+
+Issue・Pull Requestは歓迎です。
